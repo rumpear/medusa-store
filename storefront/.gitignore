@@ -1,0 +1,18 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
+.DS_Store
+
+# Previous versions of files
+.history
+
+# WebStorm files
+.idea
+
+# Temporary files
+.temp
