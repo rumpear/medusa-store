@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Previous versions of files
+.history
+
+# WebStorm files
+.idea
+
+# Temporary files
+.temp
